@@ -1,0 +1,2 @@
+ - write a key value store that conforms to the redis protocol after the course
+ - kn bit integra 
