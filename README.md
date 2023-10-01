@@ -1,0 +1,1 @@
+Solutions for zestaw 1 are in the hello-world project.
